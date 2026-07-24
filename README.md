@@ -141,3 +141,7 @@ This project intentionally avoids:
 - production publishing workflows
 
 The next useful step would be to replace placeholders with approved text and real image assets supplied by the author or publisher.
+
+## Working Note
+
+24 July 2026: Testing a small, non-destructive update from Codex via phone while working on the MacBook.
